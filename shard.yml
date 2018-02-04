@@ -1,0 +1,21 @@
+name: cj264-ru
+version: 0.1.0
+
+authors:
+  - Maksim Veynberg <mv@cj264.ru>
+
+targets:
+  cj264-ru:
+    main: src/cj264-ru.cr
+
+crystal: 0.24.1
+
+license: MIT
+
+dependencies:
+  lucky:
+    github: luckyframework/lucky
+    version: "~> 0.8.0"
+  lucky_migrator:
+    github: luckyframework/lucky_migrator
+    version: "~> 0.4.0"
