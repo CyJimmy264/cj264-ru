@@ -24,5 +24,5 @@ module.exports = {
   files: ["public/css/**/*.css", "public/js/**/*.js"],
   watchEvents: ["change"],
   open: "local",
-  browser: "default"
+  browser: "firefox"
 };

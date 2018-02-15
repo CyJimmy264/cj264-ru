@@ -31,6 +31,6 @@ abstract class MainLayout
   end
 
   def page_title
-    "Welcome to Lucky"
+    "Maksim Veynberg aka CyJimmy264"
   end
 end
