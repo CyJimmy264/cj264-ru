@@ -5,7 +5,7 @@ class MainPage < MainLayout
     end
 
     main class: "container", role: "main" do
-      text "Hallelujah!"
+      text "Hallelu Jah!"
     end
   end
 end
