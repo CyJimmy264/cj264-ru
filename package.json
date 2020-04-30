@@ -10,7 +10,7 @@
     "brunch": "^2.10.10",
     "fingerprinter-brunch": "^0.0.2",
     "glob": "^7.1.2",
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "lost": "^8.2.0",
     "normalize.css": "^7.0.0",
     "path-complete-extname": "^0.1.0",
